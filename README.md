@@ -1,7 +1,5 @@
 # BSAN-6070-CA04-Ensemble-Models
 This repository houses my project for BSAN 6070 Ensemble Machine Learning Models
-# BSAN-6070-CA03-Decision_Tree_Algorithm
-# Decision Tree Classification Model
 
 In this Computer Assignment we create a Multiple models known as ensemble models and tune parameters to discover how it affects the accuracy as well as the AUC of the model. The are tested at the base of n_estimators =100
 
